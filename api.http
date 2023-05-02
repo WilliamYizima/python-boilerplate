@@ -1,0 +1,10 @@
+GET http://localhost:9001/api/health
+###
+
+POST http://localhost:9001/api/tasks/enable
+
+###
+POST http://localhost:9001/api/tasks/disable
+
+###
+POST http://localhost:9001/api/tasks/run
